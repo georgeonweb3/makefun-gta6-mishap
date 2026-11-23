@@ -1,0 +1,4 @@
+Build a deterministic Python program for make.fun's "Funniest AI Agent Mishap: GTA 6 Launch Week" bounty.
+The program must write exactly one sentence (max 240 characters) to /output/entry.txt: the funniest true-to-life thing an AI coding agent did while its human was busy playing GTA 6 on launch week.
+The line must be on-theme, land its joke from the situation itself, and end on a real surprise a developer recognises.
+Use only the Python standard library, no network, no randomness.
